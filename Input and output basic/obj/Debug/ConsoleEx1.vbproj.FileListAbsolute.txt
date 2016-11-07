@@ -1,0 +1,9 @@
+C:\vb2013\ch02\ConsoleEx1\bin\Debug\ConsoleEx1.exe.config
+C:\vb2013\ch02\ConsoleEx1\bin\Debug\ConsoleEx1.exe
+C:\vb2013\ch02\ConsoleEx1\bin\Debug\ConsoleEx1.pdb
+C:\vb2013\ch02\ConsoleEx1\bin\Debug\ConsoleEx1.xml
+C:\vb2013\ch02\ConsoleEx1\obj\Debug\ConsoleEx1.Resources.resources
+C:\vb2013\ch02\ConsoleEx1\obj\Debug\ConsoleEx1.vbproj.GenerateResource.Cache
+C:\vb2013\ch02\ConsoleEx1\obj\Debug\ConsoleEx1.exe
+C:\vb2013\ch02\ConsoleEx1\obj\Debug\ConsoleEx1.xml
+C:\vb2013\ch02\ConsoleEx1\obj\Debug\ConsoleEx1.pdb
