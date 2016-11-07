@@ -17,3 +17,7 @@ C:\Users\Devon-Proverb\Desktop\程式\ch02\ConsoleFormat\bin\Debug\ConsoleFormat
 C:\Users\Devon-Proverb\Desktop\程式\ch02\ConsoleFormat\obj\Debug\ConsoleFormat.vbprojResolveAssemblyReference.cache
 C:\Users\Devon-Proverb\Desktop\程式\ch02\ConsoleFormat\obj\Debug\ConsoleFormat.Resources.resources
 C:\Users\Devon-Proverb\Desktop\程式\ch02\ConsoleFormat\obj\Debug\ConsoleFormat.vbproj.GenerateResource.Cache
+C:\Users\Devon-Proverb\Documents\GitHub\visual-basic.net\Format the output\bin\Debug\ConsoleFormat.exe.config
+C:\Users\Devon-Proverb\Documents\GitHub\visual-basic.net\Format the output\obj\Debug\ConsoleFormat.exe
+C:\Users\Devon-Proverb\Documents\GitHub\visual-basic.net\Format the output\obj\Debug\ConsoleFormat.xml
+C:\Users\Devon-Proverb\Documents\GitHub\visual-basic.net\Format the output\obj\Debug\ConsoleFormat.pdb
