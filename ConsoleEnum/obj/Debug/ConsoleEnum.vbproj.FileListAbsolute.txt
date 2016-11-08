@@ -1,0 +1,13 @@
+C:\vb2013\ch02\ConsoleEnum\bin\Debug\ConsoleEnum.exe.config
+C:\vb2013\ch02\ConsoleEnum\bin\Debug\ConsoleEnum.exe
+C:\vb2013\ch02\ConsoleEnum\bin\Debug\ConsoleEnum.pdb
+C:\vb2013\ch02\ConsoleEnum\bin\Debug\ConsoleEnum.xml
+C:\vb2013\ch02\ConsoleEnum\obj\Debug\ConsoleEnum.Resources.resources
+C:\vb2013\ch02\ConsoleEnum\obj\Debug\ConsoleEnum.vbproj.GenerateResource.Cache
+C:\vb2013\ch02\ConsoleEnum\obj\Debug\ConsoleEnum.exe
+C:\vb2013\ch02\ConsoleEnum\obj\Debug\ConsoleEnum.xml
+C:\vb2013\ch02\ConsoleEnum\obj\Debug\ConsoleEnum.pdb
+C:\Users\Devon-Proverb\Desktop\程式\ch02\ConsoleEnum\bin\Debug\ConsoleEnum.exe.config
+C:\Users\Devon-Proverb\Desktop\程式\ch02\ConsoleEnum\obj\Debug\ConsoleEnum.exe
+C:\Users\Devon-Proverb\Desktop\程式\ch02\ConsoleEnum\obj\Debug\ConsoleEnum.xml
+C:\Users\Devon-Proverb\Desktop\程式\ch02\ConsoleEnum\obj\Debug\ConsoleEnum.pdb
