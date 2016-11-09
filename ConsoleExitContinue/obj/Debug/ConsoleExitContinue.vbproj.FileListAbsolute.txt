@@ -1,0 +1,13 @@
+C:\vb2013\ch03\ConsoleExitContinue\bin\Debug\ConsoleExitContinue.exe.config
+C:\vb2013\ch03\ConsoleExitContinue\bin\Debug\ConsoleExitContinue.exe
+C:\vb2013\ch03\ConsoleExitContinue\bin\Debug\ConsoleExitContinue.pdb
+C:\vb2013\ch03\ConsoleExitContinue\bin\Debug\ConsoleExitContinue.xml
+C:\vb2013\ch03\ConsoleExitContinue\obj\Debug\ConsoleExitContinue.Resources.resources
+C:\vb2013\ch03\ConsoleExitContinue\obj\Debug\ConsoleExitContinue.vbproj.GenerateResource.Cache
+C:\vb2013\ch03\ConsoleExitContinue\obj\Debug\ConsoleExitContinue.exe
+C:\vb2013\ch03\ConsoleExitContinue\obj\Debug\ConsoleExitContinue.xml
+C:\vb2013\ch03\ConsoleExitContinue\obj\Debug\ConsoleExitContinue.pdb
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleExitContinue\bin\Debug\ConsoleExitContinue.exe.config
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleExitContinue\obj\Debug\ConsoleExitContinue.exe
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleExitContinue\obj\Debug\ConsoleExitContinue.xml
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleExitContinue\obj\Debug\ConsoleExitContinue.pdb
