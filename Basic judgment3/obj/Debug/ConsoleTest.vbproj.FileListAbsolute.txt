@@ -1,0 +1,13 @@
+C:\vb2013\ch03\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\vb2013\ch03\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\vb2013\ch03\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\vb2013\ch03\ConsoleTest\bin\Debug\ConsoleTest.xml
+C:\vb2013\ch03\ConsoleTest\obj\Debug\ConsoleTest.Resources.resources
+C:\vb2013\ch03\ConsoleTest\obj\Debug\ConsoleTest.vbproj.GenerateResource.Cache
+C:\vb2013\ch03\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\vb2013\ch03\ConsoleTest\obj\Debug\ConsoleTest.xml
+C:\vb2013\ch03\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleTest\obj\Debug\ConsoleTest.xml
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleTest\obj\Debug\ConsoleTest.pdb
