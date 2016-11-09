@@ -1,0 +1,13 @@
+C:\vb2013\ch03\ConsolePwd\bin\Debug\ConsolePwd.exe.config
+C:\vb2013\ch03\ConsolePwd\bin\Debug\ConsolePwd.exe
+C:\vb2013\ch03\ConsolePwd\bin\Debug\ConsolePwd.pdb
+C:\vb2013\ch03\ConsolePwd\bin\Debug\ConsolePwd.xml
+C:\vb2013\ch03\ConsolePwd\obj\Debug\ConsolePwd.Resources.resources
+C:\vb2013\ch03\ConsolePwd\obj\Debug\ConsolePwd.vbproj.GenerateResource.Cache
+C:\vb2013\ch03\ConsolePwd\obj\Debug\ConsolePwd.exe
+C:\vb2013\ch03\ConsolePwd\obj\Debug\ConsolePwd.xml
+C:\vb2013\ch03\ConsolePwd\obj\Debug\ConsolePwd.pdb
+C:\Users\Devon-Proverb\Desktop\ConsolePwd\bin\Debug\ConsolePwd.exe.config
+C:\Users\Devon-Proverb\Desktop\ConsolePwd\obj\Debug\ConsolePwd.exe
+C:\Users\Devon-Proverb\Desktop\ConsolePwd\obj\Debug\ConsolePwd.xml
+C:\Users\Devon-Proverb\Desktop\ConsolePwd\obj\Debug\ConsolePwd.pdb
