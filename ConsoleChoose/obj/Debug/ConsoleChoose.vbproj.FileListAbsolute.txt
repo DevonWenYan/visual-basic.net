@@ -1,0 +1,13 @@
+C:\vb2013\ch03\ConsoleChoose\bin\Debug\ConsoleChoose.exe.config
+C:\vb2013\ch03\ConsoleChoose\bin\Debug\ConsoleChoose.exe
+C:\vb2013\ch03\ConsoleChoose\bin\Debug\ConsoleChoose.pdb
+C:\vb2013\ch03\ConsoleChoose\bin\Debug\ConsoleChoose.xml
+C:\vb2013\ch03\ConsoleChoose\obj\Debug\ConsoleChoose.Resources.resources
+C:\vb2013\ch03\ConsoleChoose\obj\Debug\ConsoleChoose.vbproj.GenerateResource.Cache
+C:\vb2013\ch03\ConsoleChoose\obj\Debug\ConsoleChoose.exe
+C:\vb2013\ch03\ConsoleChoose\obj\Debug\ConsoleChoose.xml
+C:\vb2013\ch03\ConsoleChoose\obj\Debug\ConsoleChoose.pdb
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleChoose\bin\Debug\ConsoleChoose.exe.config
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleChoose\obj\Debug\ConsoleChoose.exe
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleChoose\obj\Debug\ConsoleChoose.xml
+C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleChoose\obj\Debug\ConsoleChoose.pdb
