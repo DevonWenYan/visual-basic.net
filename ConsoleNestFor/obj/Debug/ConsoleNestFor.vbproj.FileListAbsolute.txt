@@ -1,0 +1,9 @@
+C:\vb2013\ch03\ConsoleNestFor\bin\Debug\ConsoleNestFor.exe.config
+C:\vb2013\ch03\ConsoleNestFor\bin\Debug\ConsoleNestFor.exe
+C:\vb2013\ch03\ConsoleNestFor\bin\Debug\ConsoleNestFor.pdb
+C:\vb2013\ch03\ConsoleNestFor\bin\Debug\ConsoleNestFor.xml
+C:\vb2013\ch03\ConsoleNestFor\obj\Debug\ConsoleNestFor.Resources.resources
+C:\vb2013\ch03\ConsoleNestFor\obj\Debug\ConsoleNestFor.vbproj.GenerateResource.Cache
+C:\vb2013\ch03\ConsoleNestFor\obj\Debug\ConsoleNestFor.exe
+C:\vb2013\ch03\ConsoleNestFor\obj\Debug\ConsoleNestFor.xml
+C:\vb2013\ch03\ConsoleNestFor\obj\Debug\ConsoleNestFor.pdb
