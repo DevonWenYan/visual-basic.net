@@ -17,3 +17,7 @@ C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleDoLoopWhile\bin\Debug\Consol
 C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleDoLoopWhile\obj\Debug\ConsoleDoLoopWhile.vbprojResolveAssemblyReference.cache
 C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleDoLoopWhile\obj\Debug\ConsoleDoLoopWhile.Resources.resources
 C:\Users\Devon-Proverb\Desktop\vb程式\ch03\ConsoleDoLoopWhile\obj\Debug\ConsoleDoLoopWhile.vbproj.GenerateResource.Cache
+C:\Users\Devon-Proverb\Documents\GitHub\visual-basic.net\ConsoleDoLoopWhile\bin\Debug\ConsoleDoLoopWhile.exe.config
+C:\Users\Devon-Proverb\Documents\GitHub\visual-basic.net\ConsoleDoLoopWhile\obj\Debug\ConsoleDoLoopWhile.exe
+C:\Users\Devon-Proverb\Documents\GitHub\visual-basic.net\ConsoleDoLoopWhile\obj\Debug\ConsoleDoLoopWhile.xml
+C:\Users\Devon-Proverb\Documents\GitHub\visual-basic.net\ConsoleDoLoopWhile\obj\Debug\ConsoleDoLoopWhile.pdb
