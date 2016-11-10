@@ -1,0 +1,4 @@
+C:\vb2010\ch06\CnstructorDemo-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vb2010\ch06\CnstructorDemo-2\obj\x86\Debug\CnstructorDemo_2.Resources.resources
+C:\vb2010\ch06\CnstructorDemo-2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vb2010\ch06\CnstructorDemo-2\obj\x86\Debug\GenerateResource.write.1.tlog

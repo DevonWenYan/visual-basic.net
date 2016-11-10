@@ -1,0 +1,11 @@
+C:\vb2013\ch06\PropertyVariables\bin\Debug\PropertyVariables.exe
+C:\vb2013\ch06\PropertyVariables\bin\Debug\PropertyVariables.pdb
+C:\vb2013\ch06\PropertyVariables\bin\Debug\PropertyVariables.xml
+C:\vb2013\ch06\PropertyVariables\obj\x86\Debug\PropertyVariables.Resources.resources
+C:\vb2013\ch06\PropertyVariables\obj\x86\Debug\PropertyVariables.vbproj.GenerateResource.Cache
+C:\vb2013\ch06\PropertyVariables\obj\x86\Debug\PropertyVariables.exe
+C:\vb2013\ch06\PropertyVariables\obj\x86\Debug\PropertyVariables.xml
+C:\vb2013\ch06\PropertyVariables\obj\x86\Debug\PropertyVariables.pdb
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\PropertyVariables\obj\x86\Debug\PropertyVariables.exe
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\PropertyVariables\obj\x86\Debug\PropertyVariables.xml
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\PropertyVariables\obj\x86\Debug\PropertyVariables.pdb

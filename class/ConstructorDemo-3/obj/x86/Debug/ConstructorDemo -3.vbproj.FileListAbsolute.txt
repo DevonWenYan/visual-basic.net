@@ -1,0 +1,13 @@
+C:\vb2010\ch06\ConstructorDemo -3\bin\Debug\ConstructorDemo -3.exe
+C:\vb2010\ch06\ConstructorDemo -3\bin\Debug\ConstructorDemo -3.pdb
+C:\vb2010\ch06\ConstructorDemo -3\bin\Debug\ConstructorDemo -3.xml
+C:\vb2010\ch06\ConstructorDemo -3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vb2010\ch06\ConstructorDemo -3\obj\x86\Debug\ConstructorDemo__3.Resources.resources
+C:\vb2010\ch06\ConstructorDemo -3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vb2010\ch06\ConstructorDemo -3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vb2010\ch06\ConstructorDemo -3\obj\x86\Debug\ConstructorDemo -3.exe
+C:\vb2010\ch06\ConstructorDemo -3\obj\x86\Debug\ConstructorDemo -3.xml
+C:\vb2010\ch06\ConstructorDemo -3\obj\x86\Debug\ConstructorDemo -3.pdb
+C:\vb2010\ch06\ConstructorDemo-3\obj\x86\Debug\ConstructorDemo -3.exe
+C:\vb2010\ch06\ConstructorDemo-3\obj\x86\Debug\ConstructorDemo -3.xml
+C:\vb2010\ch06\ConstructorDemo-3\obj\x86\Debug\ConstructorDemo -3.pdb

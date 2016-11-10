@@ -1,0 +1,31 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyEmulationUsingFunction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyEmulationUsingFunction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyEmulationUsingFunction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyEmulationUsingFunction\bin\Debug\PropertyEmulationUsingFunction.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyEmulationUsingFunction\bin\Debug\PropertyEmulationUsingFunction.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyEmulationUsingFunction\bin\Debug\PropertyEmulationUsingFunction.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.pdb
+C:\vb2010\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.exe
+C:\vb2010\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.xml
+C:\vb2010\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.pdb
+C:\vb2010\ch06\PropertyEmulationUsingFunction\bin\Debug\PropertyEmulationUsingFunction.exe
+C:\vb2010\ch06\PropertyEmulationUsingFunction\bin\Debug\PropertyEmulationUsingFunction.pdb
+C:\vb2010\ch06\PropertyEmulationUsingFunction\bin\Debug\PropertyEmulationUsingFunction.xml
+C:\vb2010\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vb2010\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.Resources.resources
+C:\vb2010\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vb2010\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vb2013\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.exe
+C:\vb2013\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.xml
+C:\vb2013\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.pdb
+C:\vb2013\ch06\PropertyEmulationUsingFunction\bin\Debug\PropertyEmulationUsingFunction.exe
+C:\vb2013\ch06\PropertyEmulationUsingFunction\bin\Debug\PropertyEmulationUsingFunction.pdb
+C:\vb2013\ch06\PropertyEmulationUsingFunction\bin\Debug\PropertyEmulationUsingFunction.xml
+C:\vb2013\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.Resources.resources
+C:\vb2013\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.vbproj.GenerateResource.Cache
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.exe
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.xml
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.pdb

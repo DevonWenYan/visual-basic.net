@@ -1,0 +1,31 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyUsing_get_set\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyUsing_get_set\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyUsing_get_set\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyUsing_get_set\bin\Debug\PropertyUsing_get_set.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyUsing_get_set\bin\Debug\PropertyUsing_get_set.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyUsing_get_set\bin\Debug\PropertyUsing_get_set.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.pdb
+C:\vb2010\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.exe
+C:\vb2010\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.xml
+C:\vb2010\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.pdb
+C:\vb2010\ch06\PropertyUsing_get_set\bin\Debug\PropertyUsing_get_set.exe
+C:\vb2010\ch06\PropertyUsing_get_set\bin\Debug\PropertyUsing_get_set.pdb
+C:\vb2010\ch06\PropertyUsing_get_set\bin\Debug\PropertyUsing_get_set.xml
+C:\vb2010\ch06\PropertyUsing_get_set\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vb2010\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.Resources.resources
+C:\vb2010\ch06\PropertyUsing_get_set\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vb2010\ch06\PropertyUsing_get_set\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vb2013\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.exe
+C:\vb2013\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.xml
+C:\vb2013\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.pdb
+C:\vb2013\ch06\PropertyUsing_get_set\bin\Debug\PropertyUsing_get_set.exe
+C:\vb2013\ch06\PropertyUsing_get_set\bin\Debug\PropertyUsing_get_set.pdb
+C:\vb2013\ch06\PropertyUsing_get_set\bin\Debug\PropertyUsing_get_set.xml
+C:\vb2013\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.Resources.resources
+C:\vb2013\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.vbproj.GenerateResource.Cache
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.exe
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.xml
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\PropertyUsing_get_set\obj\x86\Debug\PropertyUsing_get_set.pdb

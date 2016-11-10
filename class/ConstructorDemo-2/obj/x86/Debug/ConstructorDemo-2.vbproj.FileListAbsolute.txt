@@ -1,0 +1,6 @@
+C:\vb2013\ch06\ConstructorDemo-2\obj\x86\Debug\CnstructorDemo_2.Resources.resources
+C:\vb2013\ch06\ConstructorDemo-2\obj\x86\Debug\ConstructorDemo-2.vbproj.GenerateResource.Cache
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\ConstructorDemo-2\obj\x86\Debug\ConstructorDemo-2.vbprojResolveAssemblyReference.cache
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\ConstructorDemo-2\obj\x86\Debug\CnstructorDemo_2.Resources.resources
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\ConstructorDemo-2\obj\x86\Debug\ConstructorDemo-2.vbproj.GenerateResource.Cache
+C:\Users\Devon-Proverb\Desktop\vb程式\ch06\ConstructorDemo-2\obj\x86\Debug\CnstructorDemo-2.xml
