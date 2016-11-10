@@ -1,0 +1,10 @@
+C:\Users\Devon-Proverb\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Devon-Proverb\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.vbprojResolveAssemblyReference.cache
+C:\Users\Devon-Proverb\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.Resources.resources
+C:\Users\Devon-Proverb\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.vbproj.GenerateResource.Cache
+C:\Users\Devon-Proverb\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.xml
+C:\Users\Devon-Proverb\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Devon-Proverb\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Devon-Proverb\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.xml
+C:\Users\Devon-Proverb\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Devon-Proverb\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
