@@ -1,0 +1,24 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleGetMax\bin\Debug\ConsoleGetMax.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleGetMax\bin\Debug\ConsoleGetMax.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleGetMax\bin\Debug\ConsoleGetMax.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleGetMax\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleGetMax\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleGetMax\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.pdb
+C:\vb2010\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.exe
+C:\vb2010\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.xml
+C:\vb2010\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.pdb
+C:\vb2013\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.exe
+C:\vb2013\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.xml
+C:\vb2013\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.pdb
+C:\vb2013\ch04\ConsoleGetMax\bin\Debug\ConsoleGetMax.exe
+C:\vb2013\ch04\ConsoleGetMax\bin\Debug\ConsoleGetMax.pdb
+C:\vb2013\ch04\ConsoleGetMax\bin\Debug\ConsoleGetMax.xml
+C:\vb2013\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.Resources.resources
+C:\vb2013\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.vbproj.GenerateResource.Cache
+C:\Users\Devon-Proverb\Desktop\vb程式\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.exe
+C:\Users\Devon-Proverb\Desktop\vb程式\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.xml
+C:\Users\Devon-Proverb\Desktop\vb程式\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.pdb
